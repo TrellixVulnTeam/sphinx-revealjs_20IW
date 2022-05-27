@@ -1,18 +1,13 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2018, Kazuya Takei
 # This file is distributed under the same license as the sphinx-revealjs
 # package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
-#
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: sphinx-revealjs 2.0.0b1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-28 03:28+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-28 03:28+0900\n"
+"Last-Translator: Kazuya Takei <myself@attakei.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,31 +21,31 @@ msgstr ""
 msgid ""
 "|THIS| is Sphinx extension to generate Reveal.js presentation documents "
 "from **standard** reStructuredText."
-msgstr ""
+msgstr "|THIS| は標準的なreStructuredTextからReveal.jsプレゼンテーションを生成するためのSphinx拡張です。"
 
 #: ../../index.rst:10
 msgid "Basic Features"
-msgstr ""
+msgstr "基本機能"
 
 #: ../../index.rst:12
 msgid "Nested sections"
-msgstr ""
+msgstr "ネストされたセクション構造"
 
 #: ../../index.rst:13
 msgid "Speaker note"
-msgstr ""
+msgstr "スピーカーノート機能（プラグイン利用）"
 
 #: ../../index.rst:14
 msgid "Syntax highlight for Reveal.js (not used pygments)"
-msgstr ""
+msgstr "Reveal.jsベースのコードハイライト（Pygmentは使用しません）"
 
 #: ../../index.rst:15
 msgid "Customize slides and sections by conf.py or source reST"
-msgstr ""
+msgstr "スライドやセクションの設定をconf.pyからでもreSTソースからでも実施可能"
 
 #: ../../index.rst:18
 msgid "Demo"
-msgstr ""
+msgstr "デモ"
 
 #: ../../index.rst:20
 msgid ""
@@ -74,7 +69,7 @@ msgstr ""
 
 #: ../../index.rst:36
 msgid "Concept and motivation"
-msgstr ""
+msgstr "基本コンセプトと作成・公開の目的など"
 
 #: ../../index.rst:38
 msgid ""
@@ -82,28 +77,30 @@ msgid ""
 "branding of engineer using Sphinx. Using static site hosting service, you"
 " can show own presentations to anyone."
 msgstr ""
+"このライブラリは、「ポートフォリオなどのためににSphinxを使うエンジニアに向けてプレゼンテーション基盤を提供すること」を目的としています。"
+"このライブラリ使うことで、自由な静的サイトホスティングサービスを使うことが出来ます。"
 
 #: ../../index.rst:42
 msgid "Core motivation is that I want to play presentation by this library."
-msgstr ""
+msgstr "根源的な目的としては、このライブラリを使って自身のプレゼンテーションを制作することにあります。"
 
 #: ../../index.rst:45
 msgid "Contents"
-msgstr ""
+msgstr "コンテンツ"
 
 #: ../../index.rst:58
 msgid "Licenses"
-msgstr ""
+msgstr "ライセンスについて"
 
 #: ../../index.rst:60
 msgid "This library is licensed Apache License version 2.0."
-msgstr ""
+msgstr "|THIS| 本体は、Apache License 2.0に基づいて公開・配布しています。"
 
 #: ../../index.rst:62
 msgid ""
 "About license of directly dependencies, please see each software projects"
 " or documentations."
-msgstr ""
+msgstr "直接依存しているライブラリ群のライセンスについては、各ライブラリのプロジェクトページを参照してください。"
 
 #: ../../index.rst:65
 msgid "docutils:"
