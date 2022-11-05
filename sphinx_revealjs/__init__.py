@@ -1,4 +1,4 @@
-"""Root module for sphinx-revealjs."""
+"""Sphinx extension with theme to generate Reveal.js presentation."""
 
 __version__ = "2.3.0"
 
